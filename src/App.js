@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import 'antd'
 import Header from './components/header';
+import Footer from './components/footer';
 
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
             Learn React
           </a>
         </header>
+        <Footer />
       </div>
     </>
   );
