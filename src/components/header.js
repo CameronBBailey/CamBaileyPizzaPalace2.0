@@ -48,7 +48,7 @@ const items = [
   },
   {
     label: (
-      <a href="https://ant.design" target="_blank" rel="noopener noreferrer">
+      <a href="/template" target="_self" rel="noopener noreferrer">
         Cart
       </a>
     ),
